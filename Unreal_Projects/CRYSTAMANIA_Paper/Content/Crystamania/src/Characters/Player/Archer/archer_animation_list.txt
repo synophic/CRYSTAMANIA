@@ -1,0 +1,7 @@
+animation frame list
+idle (ไม่น่าจะได้ใช้แล้ว)
+	1-2-3-4-5
+idle (fight)
+	6-7-8-9-10
+attack
+	11-12-13-14-15
