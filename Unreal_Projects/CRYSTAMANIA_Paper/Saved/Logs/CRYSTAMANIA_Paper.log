@@ -752,3 +752,15 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.18-07.01.39:092][500]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000019F1753FA00), frame # 3500
 [2020.12.18-07.01.39:114][500]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
 [2020.12.18-07.01.39:164][501]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.12.18-07.02.49:037][ 80]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.12.18-07.02.49:037][ 80]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.12.18-07.02.57:655][536]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2020.12.18-07.02.57:693][536]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Crystamania/NewMap" FILE="D:/github/1/CRYSTAMANIA/Unreal_Projects/CRYSTAMANIA_Paper/Content/Crystamania/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.18-07.02.57:722][536]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2020.12.18-07.02.58:170][536]LogSavePackage: Moving 'D:/github/1/CRYSTAMANIA/Unreal_Projects/CRYSTAMANIA_Paper/Saved/NewMap739BC2414A5550BBD9262688ACBC8B05.tmp' to 'D:/github/1/CRYSTAMANIA/Unreal_Projects/CRYSTAMANIA_Paper/Content/Crystamania/NewMap.umap'
+[2020.12.18-07.02.58:209][536]LogFileHelpers: Saving map 'NewMap' took 0.516
+[2020.12.18-07.02.58:209][536]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Crystamania/NewMap_BuiltData" FILE="D:/github/1/CRYSTAMANIA/Unreal_Projects/CRYSTAMANIA_Paper/Content/Crystamania/NewMap_BuiltData.uasset" SILENT=true
+[2020.12.18-07.02.58:225][536]LogSavePackage: Moving 'D:/github/1/CRYSTAMANIA/Unreal_Projects/CRYSTAMANIA_Paper/Saved/NewMap_BuiltData4E26E5F2422A2F570F4A7EBA86881887.tmp' to 'D:/github/1/CRYSTAMANIA/Unreal_Projects/CRYSTAMANIA_Paper/Content/Crystamania/NewMap_BuiltData.uasset'
+[2020.12.18-07.02.58:269][536]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.18-07.02.58:269][536]LogContentValidation: Display: Validating World /Game/Crystamania/NewMap.NewMap
+[2020.12.18-07.02.58:269][536]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Crystamania/NewMap_BuiltData.NewMap_BuiltData
