@@ -13622,3 +13622,22 @@ Make sure 'HUDBlueprint_C' has been compiled for  Get action_border_1
 [2020.12.19-16.42.38:466][115]AssetCheck: New page: Asset Save: multiple assets
 [2020.12.19-16.42.38:466][115]LogContentValidation: Display: Validating World /Game/Crystamania/NewMap.NewMap
 [2020.12.19-16.42.38:467][115]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Crystamania/NewMap_BuiltData.NewMap_BuiltData
+[2020.12.19-16.59.04:105][761]LogTemp: Resetting audio stream to device id 
+[2020.12.19-16.59.04:136][761]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.19-16.59.04:136][761]LogAudioMixer: Display: 1: FrontRight
+[2020.12.19-16.59.28:583][829]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.12.19-17.20.20:033][830]LogTemp: Resetting audio stream to device id 
+[2020.12.19-17.20.20:060][830]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.19-17.20.20:060][830]LogAudioMixer: Display: 1: FrontRight
+[2020.12.19-17.20.25:114][831]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001)
+[2020.12.19-17.20.25:131][832]LogHttp: Warning: 0000015C516B4800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3B74C37F-414A-7A4B-3666-4183049F3A79%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=24d2edc0489e592c78ac6a8123293d7f%7Cc2a1a96401d54d90991265585177a29d%7C8947e3c1-3a80-48e9-9463-8d2616be707a&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.12.19-17.20.25:131][832]LogHttp: Warning: 0000015C516B4800: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.12.19-17.20.25:131][832]LogHttp: Warning: 0000015C516B4800: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x15bbc3eff70 [can pipeline])
+[2020.12.19-17.20.25:131][832]LogHttp: Warning: 0000015C516B4800: libcurl info message cache 1 (Re-using existing connection! (#393) with host datarouter.ol.epicgames.com)
+[2020.12.19-17.20.25:131][832]LogHttp: Warning: 0000015C516B4800: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.6.144.245) port 443 (#393))
+[2020.12.19-17.20.25:131][832]LogHttp: Warning: 0000015C516B4800: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.12.19-17.20.25:131][832]LogHttp: Warning: 0000015C516B4800: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.12.19-17.20.25:131][832]LogHttp: Warning: 0000015C516B4800: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.12.19-17.20.25:131][832]LogHttp: Warning: 0000015C516B4800: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.12.19-17.20.25:131][832]LogHttp: Warning: 0000015C516B4800: libcurl info message cache 7 (Closing connection 393)
+[2020.12.19-17.20.25:467][833]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3B74C37F-414A-7A4B-3666-4183049F3A79%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=24d2edc0489e592c78ac6a8123293d7f%7Cc2a1a96401d54d90991265585177a29d%7C8947e3c1-3a80-48e9-9463-8d2616be707a&AppEnvironment=datacollector-source&UploadType=eteventstream
