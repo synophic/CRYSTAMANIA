@@ -6893,3 +6893,952 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.19-09.01.02:056][491]LogPlayLevel: Display: Destroying online subsystem :Context_79
 [2020.12.19-09.01.15:695][ 54]BlueprintLog: New page: Compile NewMap
 [2020.12.19-09.01.16:022][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   5.99ms
+[2020.12.19-09.03.00:897][364]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2020.12.19-09.03.01:531][364]LogSavePackage: Moving 'D:/github/1/CRYSTAMANIA/Unreal_Projects/CRYSTAMANIA_Paper/Saved/NewMap_Auto9A003124A483552F6BBEBE1AAE194FABE.tmp' to 'D:/github/1/CRYSTAMANIA/Unreal_Projects/CRYSTAMANIA_Paper/Saved/Autosaves/Game/Crystamania/NewMap_Auto9.umap'
+[2020.12.19-09.03.01:534][364]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Crystamania/NewMap' took 0.702
+[2020.12.19-09.03.01:534][364]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.702
+[2020.12.19-10.08.30:722][993]LogHttp: Warning: 0000015CBC79F900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3B74C37F-414A-7A4B-3666-4183049F3A79%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=24d2edc0489e592c78ac6a8123293d7f%7Cc2a1a96401d54d90991265585177a29d%7C8947e3c1-3a80-48e9-9463-8d2616be707a&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.12.19-10.08.30:722][993]LogHttp: Warning: 0000015CBC79F900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.12.19-10.08.30:723][993]LogHttp: Warning: 0000015CBC79F900: libcurl info message cache 0 (Connection 242 seems to be dead!)
+[2020.12.19-10.08.30:723][993]LogHttp: Warning: 0000015CBC79F900: libcurl info message cache 1 (Closing connection 242)
+[2020.12.19-10.08.30:723][993]LogHttp: Warning: 0000015CBC79F900: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.12.19-10.08.30:723][993]LogHttp: Warning: 0000015CBC79F900: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.12.19-10.08.30:723][993]LogHttp: Warning: 0000015CBC79F900: libcurl info message cache 4 (Closing connection 243)
+[2020.12.19-10.08.31:058][994]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3B74C37F-414A-7A4B-3666-4183049F3A79%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=24d2edc0489e592c78ac6a8123293d7f%7Cc2a1a96401d54d90991265585177a29d%7C8947e3c1-3a80-48e9-9463-8d2616be707a&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2020.12.19-11.11.35:651][323]LogTemp: Resetting audio stream to device id 
+[2020.12.19-11.11.35:687][323]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.19-11.11.35:687][323]LogAudioMixer: Display: 1: FrontRight
+[2020.12.19-11.11.58:778][392]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.12.19-11.49.38:431][392]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.12.19-11.49.38:499][392]LogTemp: Resetting audio stream to device id 
+[2020.12.19-11.49.40:301][392]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.19-11.49.40:301][392]LogAudioMixer: Display: 1: FrontRight
+[2020.12.19-11.49.41:002][393]LogTemp: Resetting audio stream to device id 
+[2020.12.19-11.49.41:039][393]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.19-11.49.41:039][393]LogAudioMixer: Display: 1: FrontRight
+[2020.12.19-11.49.41:379][394]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.12.19-11.49.41:414][394]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.12.19-11.49.41:423][394]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.12.19-11.49.41:483][394]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.12.19-11.49.42:327][397]LogHttp: Warning: 0000015CBC79F900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3B74C37F-414A-7A4B-3666-4183049F3A79%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=24d2edc0489e592c78ac6a8123293d7f%7Cc2a1a96401d54d90991265585177a29d%7C8947e3c1-3a80-48e9-9463-8d2616be707a&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.12.19-11.49.42:327][397]LogHttp: Warning: 0000015CBC79F900: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.12.19-11.49.42:327][397]LogHttp: Warning: 0000015CBC79F900: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x15bbc3eff70 [can pipeline])
+[2020.12.19-11.49.42:327][397]LogHttp: Warning: 0000015CBC79F900: libcurl info message cache 1 (Re-using existing connection! (#269) with host datarouter.ol.epicgames.com)
+[2020.12.19-11.49.42:327][397]LogHttp: Warning: 0000015CBC79F900: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.174.31.254) port 443 (#269))
+[2020.12.19-11.49.42:327][397]LogHttp: Warning: 0000015CBC79F900: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.12.19-11.49.42:327][397]LogHttp: Warning: 0000015CBC79F900: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.12.19-11.49.42:327][397]LogHttp: Warning: 0000015CBC79F900: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.12.19-11.49.42:327][397]LogHttp: Warning: 0000015CBC79F900: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.12.19-11.49.42:327][397]LogHttp: Warning: 0000015CBC79F900: libcurl info message cache 7 (Closing connection 269)
+[2020.12.19-11.49.42:882][398]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3B74C37F-414A-7A4B-3666-4183049F3A79%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=24d2edc0489e592c78ac6a8123293d7f%7Cc2a1a96401d54d90991265585177a29d%7C8947e3c1-3a80-48e9-9463-8d2616be707a&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2020.12.19-11.53.51:214][136]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.12.19-11.53.51:214][136]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.12.19-11.55.44:536][249]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.12.19-11.55.44:536][249]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.12.19-11.55.47:004][347]BlueprintLog: New page: Compile NewMap
+[2020.12.19-11.55.48:629][347]LogUObjectHash: Compacting FUObjectHashTables data took  14.08ms
+[2020.12.19-11.55.52:222][412]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.19-11.55.52:316][412]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.19-11.55.52:318][412]PIE: New page: PIE session: NewMap (Dec 20, 2020, 1:55:52 AM)
+[2020.12.19-11.55.52:319][412]LogPlayLevel: Creating play world package: /Game/Crystamania/UEDPIE_0_NewMap
+[2020.12.19-11.55.52:403][412]LogPlayLevel: PIE: StaticDuplicateObject took: (0.083408s)
+[2020.12.19-11.55.52:409][412]LogAIModule: Creating AISystem for world NewMap
+[2020.12.19-11.55.52:409][412]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000015CBED95800), frame # 638412
+[2020.12.19-11.55.52:409][412]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000015D2A750B80), frame # 638412
+[2020.12.19-11.55.52:411][412]LogPlayLevel: PIE: World Init took: (0.007600s)
+[2020.12.19-11.55.52:411][412]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Crystamania/NewMap.NewMap to /Game/Crystamania/UEDPIE_0_NewMap.NewMap (0.091320s)
+[2020.12.19-11.55.52:470][412]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2020.12.19-11.55.52:475][412]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.19-11.55.52:475][412]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.19-11.55.52:475][412]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.19-11.55.52:475][412]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.19-11.55.52:475][412]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.19-11.55.52:475][412]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.19-11.55.52:475][412]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.19-11.55.52:475][412]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.19-11.55.52:476][412]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.19-11.55.52:476][412]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.19-11.55.52:494][412]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.19-11.55.52:494][412]LogAudioMixer: Display: 1: FrontRight
+[2020.12.19-11.55.52:520][412]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek High Definition Audio)
+[2020.12.19-11.55.52:529][412]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.19-11.55.52:529][412]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.19-11.55.52:529][412]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.19-11.55.52:531][412]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.19-11.55.52:540][412]LogInit: FAudioDevice initialized.
+[2020.12.19-11.55.52:602][412]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-11.55.52:604][412]LogLoad: Game class is 'NewGameMode_C'
+[2020.12.19-11.55.52:622][412]LogWorld: Bringing World /Game/Crystamania/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2020.12.19-18.55.52
+[2020.12.19-11.55.52:624][412]LogWorld: Bringing up level for play took: 0.018830
+[2020.12.19-11.55.52:625][412]LogOnline: OSS: Creating online subsystem instance for: :Context_80
+[2020.12.19-11.55.52:632][412]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.12.19-11.55.52:633][412]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.12.19-11.55.52:648][412]LogBlueprintUserMessages: [NewMap_C_51] Actor_player
+[2020.12.19-11.55.52:648][412]LogBlueprintUserMessages: [NewMap_C_51] Actor_player1
+[2020.12.19-11.55.52:717][412]PIE: Server logged in
+[2020.12.19-11.55.52:742][412]PIE: Play in editor total start time 0.467 seconds.
+[2020.12.19-11.56.05:394][  5]LogSlate: Window 'CRYSTAMANIA_Paper Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.12.19-11.56.05:437][  5]LogWorld: BeginTearingDown for /Game/Crystamania/UEDPIE_0_NewMap
+[2020.12.19-11.56.05:437][  5]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.19-11.56.05:450][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-11.56.05:471][  5]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.19-11.56.05:478][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-11.56.05:576][  5]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000015D2A750B80), frame # 639005
+[2020.12.19-11.56.05:576][  5]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000015CBED95800), frame # 639005
+[2020.12.19-11.56.05:584][  5]LogUObjectHash: Compacting FUObjectHashTables data took   5.83ms
+[2020.12.19-11.56.05:739][  6]LogPlayLevel: Display: Destroying online subsystem :Context_80
+[2020.12.19-11.58.24:066][419]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.12.19-11.58.24:066][419]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.12.19-11.58.47:999][211]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.19-11.58.48:024][211]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.12.19-11.58.48:028][211]LogPlayLevel: [PlayLevel] Compiling NewMap before play...
+[2020.12.19-11.58.48:642][211]LogUObjectHash: Compacting FUObjectHashTables data took   5.69ms
+[2020.12.19-11.58.48:678][211]LogPlayLevel: PlayLevel: Blueprint regeneration took 655 ms (1 blueprints)
+[2020.12.19-11.58.48:679][211]PIE: New page: PIE session: NewMap (Dec 20, 2020, 1:58:48 AM)
+[2020.12.19-11.58.48:681][211]LogPlayLevel: Creating play world package: /Game/Crystamania/UEDPIE_0_NewMap
+[2020.12.19-11.58.48:755][211]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073166s)
+[2020.12.19-11.58.48:756][211]LogAIModule: Creating AISystem for world NewMap
+[2020.12.19-11.58.48:756][211]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000015CAD68E000), frame # 640211
+[2020.12.19-11.58.48:756][211]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000015C6543D1C0), frame # 640211
+[2020.12.19-11.58.48:756][211]LogPlayLevel: PIE: World Init took: (0.001297s)
+[2020.12.19-11.58.48:756][211]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Crystamania/NewMap.NewMap to /Game/Crystamania/UEDPIE_0_NewMap.NewMap (0.074630s)
+[2020.12.19-11.58.48:811][211]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2020.12.19-11.58.48:812][211]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.19-11.58.48:812][211]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.19-11.58.48:812][211]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.19-11.58.48:812][211]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.19-11.58.48:812][211]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.19-11.58.48:812][211]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.19-11.58.48:813][211]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.19-11.58.48:813][211]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.19-11.58.48:813][211]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.19-11.58.48:813][211]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.19-11.58.48:817][211]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.19-11.58.48:818][211]LogAudioMixer: Display: 1: FrontRight
+[2020.12.19-11.58.48:843][211]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek High Definition Audio)
+[2020.12.19-11.58.48:849][211]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.19-11.58.48:849][211]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.19-11.58.48:849][211]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.19-11.58.48:849][211]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.19-11.58.48:857][211]LogInit: FAudioDevice initialized.
+[2020.12.19-11.58.48:904][211]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-11.58.48:905][211]LogLoad: Game class is 'NewGameMode_C'
+[2020.12.19-11.58.48:914][211]LogWorld: Bringing World /Game/Crystamania/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2020.12.19-18.58.48
+[2020.12.19-11.58.48:914][211]LogWorld: Bringing up level for play took: 0.009065
+[2020.12.19-11.58.48:914][211]LogOnline: OSS: Creating online subsystem instance for: :Context_81
+[2020.12.19-11.58.48:917][211]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.12.19-11.58.48:917][211]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.12.19-11.58.48:921][211]LogBlueprintUserMessages: [NewMap_C_52] Actor_player
+[2020.12.19-11.58.48:921][211]LogBlueprintUserMessages: [NewMap_C_52] Actor_player1
+[2020.12.19-11.58.48:931][211]PIE: Server logged in
+[2020.12.19-11.58.48:933][211]PIE: Play in editor total start time 0.911 seconds.
+[2020.12.19-11.58.50:912][253]LogBlueprintUserMessages: [NewMap_C_52] 1   1
+[2020.12.19-11.58.51:768][283]LogBlueprintUserMessages: [NewMap_C_52] enemy
+[2020.12.19-11.58.51:847][283]LogBlueprintUserMessages: [WidgetATKBp_C_0] Hello
+[2020.12.19-11.58.59:102][541]LogBlueprintUserMessages: [NewMap_C_52] combat
+[2020.12.19-11.58.59:102][541]LogBlueprintUserMessages: [NewMap_C_52] 2
+[2020.12.19-11.58.59:102][541]LogBlueprintUserMessages: [NewMap_C_52] cc
+[2020.12.19-11.59.00:113][577]LogBlueprintUserMessages: [NewMap_C_52] 1   4
+[2020.12.19-11.59.00:968][607]LogBlueprintUserMessages: [NewMap_C_52] 2   4
+[2020.12.19-11.59.01:190][615]LogBlueprintUserMessages: [NewMap_C_52] 3   4
+[2020.12.19-11.59.01:411][623]LogBlueprintUserMessages: [NewMap_C_52] 4   4
+[2020.12.19-11.59.01:632][631]LogBlueprintUserMessages: [NewMap_C_52] enemy
+[2020.12.19-11.59.01:639][631]LogBlueprintUserMessages: [WidgetATKBp_C_1] Hello
+[2020.12.19-11.59.08:501][875]LogBlueprintUserMessages: [NewMap_C_52] combat
+[2020.12.19-11.59.08:501][875]LogBlueprintUserMessages: [NewMap_C_52] 1
+[2020.12.19-11.59.08:501][875]LogBlueprintUserMessages: [NewMap_C_52] cc
+[2020.12.19-11.59.08:507][875]LogBlueprintUserMessages: [WidgetATKBp_C_2] Hello
+[2020.12.19-11.59.15:772][132]LogBlueprintUserMessages: [NewMap_C_52] None
+[2020.12.19-11.59.15:772][132]LogBlueprintUserMessages: [NewMap_C_52] 2
+[2020.12.19-11.59.15:772][132]LogBlueprintUserMessages: [NewMap_C_52] cc
+[2020.12.19-11.59.15:778][132]LogBlueprintUserMessages: [WidgetATKBp_C_3] Hello
+[2020.12.19-12.00.26:193][649]LogBlueprintUserMessages: [NewMap_C_52] combat
+[2020.12.19-12.00.26:193][649]LogBlueprintUserMessages: [NewMap_C_52] 1
+[2020.12.19-12.00.26:193][649]LogBlueprintUserMessages: [NewMap_C_52] cc
+[2020.12.19-12.00.27:636][699]LogBlueprintUserMessages: [NewMap_C_52] 1   3
+[2020.12.19-12.00.27:811][705]LogBlueprintUserMessages: [NewMap_C_52] 2   3
+[2020.12.19-12.00.28:014][712]LogBlueprintUserMessages: [NewMap_C_52] 3   3
+[2020.12.19-12.00.28:241][720]LogBlueprintUserMessages: [NewMap_C_52] enemy
+[2020.12.19-12.00.28:248][720]LogBlueprintUserMessages: [WidgetATKBp_C_4] Hello
+[2020.12.19-12.00.34:893][955]LogBlueprintUserMessages: [NewMap_C_52] combat
+[2020.12.19-12.00.34:893][955]LogBlueprintUserMessages: [NewMap_C_52] 2
+[2020.12.19-12.00.34:893][955]LogBlueprintUserMessages: [NewMap_C_52] cc
+[2020.12.19-12.00.34:900][955]LogBlueprintUserMessages: [WidgetATKBp_C_5] Hello
+[2020.12.19-12.00.45:848][341]LogBlueprintUserMessages: [NewMap_C_52] combat
+[2020.12.19-12.00.45:848][341]LogBlueprintUserMessages: [NewMap_C_52] 1
+[2020.12.19-12.00.45:848][341]LogBlueprintUserMessages: [NewMap_C_52] cc
+[2020.12.19-12.00.45:855][341]LogBlueprintUserMessages: [WidgetATKBp_C_6] Hello
+[2020.12.19-12.00.52:820][588]LogBlueprintUserMessages: [NewMap_C_52] combat
+[2020.12.19-12.00.52:820][588]LogBlueprintUserMessages: [NewMap_C_52] 2
+[2020.12.19-12.00.52:820][588]LogBlueprintUserMessages: [NewMap_C_52] cc
+[2020.12.19-12.00.52:826][588]LogBlueprintUserMessages: [WidgetATKBp_C_7] Hello
+[2020.12.19-12.00.59:500][825]LogBlueprintUserMessages: [NewMap_C_52] None
+[2020.12.19-12.00.59:500][825]LogBlueprintUserMessages: [NewMap_C_52] 1
+[2020.12.19-12.00.59:500][825]LogBlueprintUserMessages: [NewMap_C_52] cc
+[2020.12.19-12.00.59:507][825]LogBlueprintUserMessages: [WidgetATKBp_C_8] Hello
+[2020.12.19-12.01.06:366][ 69]LogBlueprintUserMessages: [NewMap_C_52] combat
+[2020.12.19-12.01.06:366][ 69]LogBlueprintUserMessages: [NewMap_C_52] 2
+[2020.12.19-12.01.06:366][ 69]LogBlueprintUserMessages: [NewMap_C_52] cc
+[2020.12.19-12.01.08:216][136]LogBlueprintUserMessages: [NewMap_C_52] 1   2
+[2020.12.19-12.01.08:417][143]LogBlueprintUserMessages: [NewMap_C_52] 2   2
+[2020.12.19-12.01.10:231][208]LogBlueprintUserMessages: [NewMap_C_52] c
+[2020.12.19-12.01.10:231][208]LogBlueprintUserMessages: [NewMap_C_52] 1234
+[2020.12.19-12.01.10:238][208]LogBlueprintUserMessages: [WidgetATKBp_C_9] Hello
+[2020.12.19-12.01.10:239][208]LogBlueprintUserMessages: [NewMap_C_52] Hello1154
+[2020.12.19-12.01.14:010][341]LogBlueprintUserMessages: [NewMap_C_52] Hello11
+[2020.12.19-12.01.15:032][376]LogBlueprintUserMessages: [NewMap_C_52] Visible
+[2020.12.19-12.01.17:222][453]LogBlueprintUserMessages: [NewMap_C_52] 114Hello
+[2020.12.19-12.01.19:875][545]LogBlueprintUserMessages: [NewMap_C_52] WidgetATKBp_C_9
+[2020.12.19-12.01.20:678][574]LogBlueprintUserMessages: [NewMap_C_52] 1
+[2020.12.19-12.01.20:678][574]LogBlueprintUserMessages: [NewMap_C_52] cc
+[2020.12.19-12.01.20:678][574]LogBlueprintUserMessages: [NewMap_C_52] WidgetATKBp_C_8
+[2020.12.19-12.01.22:095][625]LogBlueprintUserMessages: [NewMap_C_52] Pass
+[2020.12.19-12.01.22:095][625]LogBlueprintUserMessages: [NewMap_C_52] 2
+[2020.12.19-12.01.22:095][625]LogBlueprintUserMessages: [NewMap_C_52] cc
+[2020.12.19-12.01.23:475][675]LogBlueprintUserMessages: [NewMap_C_52] 1   1
+[2020.12.19-12.01.25:434][745]LogBlueprintUserMessages: [NewMap_C_52] enemy
+[2020.12.19-12.01.25:440][745]LogBlueprintUserMessages: [WidgetATKBp_C_10] Hello
+[2020.12.19-12.01.32:277][987]LogBlueprintUserMessages: [NewMap_C_52] combat
+[2020.12.19-12.01.32:277][987]LogBlueprintUserMessages: [NewMap_C_52] 1
+[2020.12.19-12.01.32:277][987]LogBlueprintUserMessages: [NewMap_C_52] cc
+[2020.12.19-12.01.33:619][ 35]LogBlueprintUserMessages: [NewMap_C_52] 1   6
+[2020.12.19-12.01.33:812][ 42]LogBlueprintUserMessages: [NewMap_C_52] 2   6
+[2020.12.19-12.01.34:032][ 50]LogBlueprintUserMessages: [NewMap_C_52] 3   6
+[2020.12.19-12.01.34:252][ 58]LogBlueprintUserMessages: [NewMap_C_52] 4   6
+[2020.12.19-12.01.34:473][ 66]LogBlueprintUserMessages: [NewMap_C_52] 5   6
+[2020.12.19-12.01.36:532][139]LogBlueprintUserMessages: [NewMap_C_52] 6   6
+[2020.12.19-12.01.36:751][147]LogBlueprintUserMessages: [HUDBlueprint_C_0] Hello
+[2020.12.19-12.01.36:751][147]LogBlueprintUserMessages: [NewMap_C_52] 2
+[2020.12.19-12.01.36:751][147]LogBlueprintUserMessages: [NewMap_C_52] cc
+[2020.12.19-12.01.36:757][147]LogBlueprintUserMessages: [WidgetATKBp_C_11] Hello
+[2020.12.19-12.01.44:439][417]LogBlueprintUserMessages: [NewMap_C_52] combat
+[2020.12.19-12.01.44:439][417]LogBlueprintUserMessages: [NewMap_C_52] 1
+[2020.12.19-12.01.44:439][417]LogBlueprintUserMessages: [NewMap_C_52] cc
+[2020.12.19-12.02.10:480][358]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-12.02.10:480][358]LogWorld: BeginTearingDown for /Game/Crystamania/UEDPIE_0_NewMap
+[2020.12.19-12.02.10:481][358]LogSlate: Window 'CRYSTAMANIA_Paper Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.12.19-12.02.10:495][358]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.19-12.02.10:500][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-12.02.10:514][358]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.19-12.02.10:522][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-12.02.10:616][358]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000015C6543D1C0), frame # 645358
+[2020.12.19-12.02.10:616][358]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000015CAD68E000), frame # 645358
+[2020.12.19-12.02.10:622][358]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2020.12.19-12.02.10:769][359]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2020.12.19-12.03.16:902][556]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2020.12.19-12.03.17:663][556]LogSavePackage: Moving 'D:/github/1/CRYSTAMANIA/Unreal_Projects/CRYSTAMANIA_Paper/Saved/NewMap_Auto0A034987C4C6DB2F1948897B72DAB24A0.tmp' to 'D:/github/1/CRYSTAMANIA/Unreal_Projects/CRYSTAMANIA_Paper/Saved/Autosaves/Game/Crystamania/NewMap_Auto0.umap'
+[2020.12.19-12.03.17:671][556]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Crystamania/NewMap' took 0.826
+[2020.12.19-12.03.17:671][556]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.826
+[2020.12.19-12.12.17:889][281]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.12.19-12.12.17:889][281]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.12.19-12.12.32:583][904]BlueprintLog: New page: Compile NewMap
+[2020.12.19-12.12.32:921][904]LogUObjectHash: Compacting FUObjectHashTables data took   6.13ms
+[2020.12.19-12.12.34:920][951]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.19-12.12.34:944][951]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.19-12.12.34:944][951]PIE: New page: PIE session: NewMap (Dec 20, 2020, 2:12:34 AM)
+[2020.12.19-12.12.34:946][951]LogPlayLevel: Creating play world package: /Game/Crystamania/UEDPIE_0_NewMap
+[2020.12.19-12.12.35:018][951]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072615s)
+[2020.12.19-12.12.35:020][951]LogAIModule: Creating AISystem for world NewMap
+[2020.12.19-12.12.35:020][951]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000015C68197E00), frame # 652951
+[2020.12.19-12.12.35:020][951]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000015D0276E200), frame # 652951
+[2020.12.19-12.12.35:020][951]LogPlayLevel: PIE: World Init took: (0.001684s)
+[2020.12.19-12.12.35:020][951]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Crystamania/NewMap.NewMap to /Game/Crystamania/UEDPIE_0_NewMap.NewMap (0.074470s)
+[2020.12.19-12.12.35:077][951]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2020.12.19-12.12.35:078][951]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.19-12.12.35:078][951]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.19-12.12.35:078][951]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.19-12.12.35:079][951]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.19-12.12.35:079][951]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.19-12.12.35:079][951]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.19-12.12.35:079][951]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.19-12.12.35:079][951]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.19-12.12.35:079][951]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.19-12.12.35:079][951]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.19-12.12.35:084][951]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.19-12.12.35:084][951]LogAudioMixer: Display: 1: FrontRight
+[2020.12.19-12.12.35:109][951]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek High Definition Audio)
+[2020.12.19-12.12.35:109][951]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.19-12.12.35:109][951]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.19-12.12.35:109][951]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.19-12.12.35:110][951]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.19-12.12.35:122][951]LogInit: FAudioDevice initialized.
+[2020.12.19-12.12.35:178][951]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-12.12.35:178][951]LogLoad: Game class is 'NewGameMode_C'
+[2020.12.19-12.12.35:187][951]LogWorld: Bringing World /Game/Crystamania/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2020.12.19-19.12.35
+[2020.12.19-12.12.35:188][951]LogWorld: Bringing up level for play took: 0.009192
+[2020.12.19-12.12.35:188][951]LogOnline: OSS: Creating online subsystem instance for: :Context_82
+[2020.12.19-12.12.35:190][951]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.12.19-12.12.35:190][951]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.12.19-12.12.35:194][951]LogBlueprintUserMessages: [NewMap_C_53] Actor_player
+[2020.12.19-12.12.35:194][951]LogBlueprintUserMessages: [NewMap_C_53] Actor_player1
+[2020.12.19-12.12.35:227][951]PIE: Server logged in
+[2020.12.19-12.12.35:252][951]PIE: Play in editor total start time 0.308 seconds.
+[2020.12.19-12.12.36:260][989]LogBlueprintUserMessages: [NewMap_C_53] 1   5
+[2020.12.19-12.12.37:100][ 24]LogBlueprintUserMessages: [NewMap_C_53] 2   5
+[2020.12.19-12.12.37:313][ 33]LogBlueprintUserMessages: [NewMap_C_53] 3   5
+[2020.12.19-12.12.37:526][ 42]LogBlueprintUserMessages: [NewMap_C_53] 4   5
+[2020.12.19-12.12.37:735][ 51]LogBlueprintUserMessages: [NewMap_C_53] 5   5
+[2020.12.19-12.12.37:946][ 60]LogBlueprintUserMessages: [NewMap_C_53] enemy
+[2020.12.19-12.12.37:953][ 60]LogBlueprintUserMessages: [WidgetATKBp_C_0] Hello
+[2020.12.19-12.12.44:694][336]LogBlueprintUserMessages: [NewMap_C_53] combat
+[2020.12.19-12.12.44:694][336]LogBlueprintUserMessages: [NewMap_C_53] 2
+[2020.12.19-12.12.44:694][336]LogBlueprintUserMessages: [NewMap_C_53] cc
+[2020.12.19-12.12.45:246][359]LogBlueprintUserMessages: [NewMap_C_53] 1   3
+[2020.12.19-12.12.46:076][393]LogBlueprintUserMessages: [NewMap_C_53] 2   3
+[2020.12.19-12.12.46:293][402]LogBlueprintUserMessages: [NewMap_C_53] 3   3
+[2020.12.19-12.12.46:509][411]LogBlueprintUserMessages: [NewMap_C_53] enemy
+[2020.12.19-12.12.46:516][411]LogBlueprintUserMessages: [WidgetATKBp_C_1] Hello
+[2020.12.19-12.12.53:088][684]LogBlueprintUserMessages: [NewMap_C_53] combat
+[2020.12.19-12.12.53:088][684]LogBlueprintUserMessages: [NewMap_C_53] 1
+[2020.12.19-12.12.53:088][684]LogBlueprintUserMessages: [NewMap_C_53] cc
+[2020.12.19-12.12.53:094][684]LogBlueprintUserMessages: [WidgetATKBp_C_2] Hello
+[2020.12.19-12.12.59:801][964]LogBlueprintUserMessages: [NewMap_C_53] None
+[2020.12.19-12.12.59:801][964]LogBlueprintUserMessages: [NewMap_C_53] 2
+[2020.12.19-12.12.59:801][964]LogBlueprintUserMessages: [NewMap_C_53] cc
+[2020.12.19-12.12.59:807][964]LogBlueprintUserMessages: [WidgetATKBp_C_3] Hello
+[2020.12.19-12.13.07:748][293]LogBlueprintUserMessages: [NewMap_C_53] combat
+[2020.12.19-12.13.07:748][293]LogBlueprintUserMessages: [NewMap_C_53] 1
+[2020.12.19-12.13.07:748][293]LogBlueprintUserMessages: [NewMap_C_53] cc
+[2020.12.19-12.13.08:696][333]LogBlueprintUserMessages: [NewMap_C_53] 1   2
+[2020.12.19-12.13.08:885][341]LogBlueprintUserMessages: [NewMap_C_53] 2   2
+[2020.12.19-12.13.10:487][408]LogBlueprintUserMessages: [NewMap_C_53] c
+[2020.12.19-12.13.10:487][408]LogBlueprintUserMessages: [NewMap_C_53] 1234
+[2020.12.19-12.13.10:494][408]LogBlueprintUserMessages: [WidgetATKBp_C_4] Hello
+[2020.12.19-12.13.10:495][408]LogBlueprintUserMessages: [NewMap_C_53] Hello1154
+[2020.12.19-12.13.13:991][552]LogBlueprintUserMessages: [NewMap_C_53] Hello11
+[2020.12.19-12.13.14:984][593]LogBlueprintUserMessages: [NewMap_C_53] Visible
+[2020.12.19-12.13.17:671][703]LogBlueprintUserMessages: [NewMap_C_53] 114Hello
+[2020.12.19-12.13.20:289][812]LogBlueprintUserMessages: [NewMap_C_53] WidgetATKBp_C_4
+[2020.12.19-12.13.21:104][847]LogBlueprintUserMessages: [NewMap_C_53] 2
+[2020.12.19-12.13.21:105][847]LogBlueprintUserMessages: [NewMap_C_53] cc
+[2020.12.19-12.13.21:105][847]LogBlueprintUserMessages: [NewMap_C_53] A
+[2020.12.19-12.13.21:105][847]LogBlueprintUserMessages: [NewMap_C_53] 1234
+[2020.12.19-12.13.21:111][847]LogBlueprintUserMessages: [WidgetATKBp_C_5] Hello
+[2020.12.19-12.13.21:124][847]LogScript: Warning: Attempted to access Enemy_IfBot_C_0 via property Myenemy, but Enemy_IfBot_C_0 is pending kill
+	NewMap_C /Game/Crystamania/UEDPIE_0_NewMap.NewMap:PersistentLevel.NewMap_C_53
+	Function /Game/Crystamania/NewMap.NewMap_C:ExecuteUbergraph_NewMap:0777
+[2020.12.19-12.13.21:148][847]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy_IfBot_C_0 via property Myenemy, but Enemy_IfBot_C_0 is pending kill". Blueprint:  NewMap Function:  Execute Ubergraph New Map Graph:  EventGraph Node:  DestroyActor
+[2020.12.19-12.13.21:149][847]LogBlueprintUserMessages: [NewMap_C_53] Hello1154
+[2020.12.19-12.13.21:149][847]LogBlueprintUserMessages: [NewMap_C_53] WidgetATKBp_C_5
+[2020.12.19-12.13.24:409][982]LogBlueprintUserMessages: [NewMap_C_53] Hello11
+[2020.12.19-12.13.25:392][ 23]LogBlueprintUserMessages: [NewMap_C_53] Visible
+[2020.12.19-12.13.26:937][ 87]LogBlueprintUserMessages: [NewMap_C_53] 114Hello
+[2020.12.19-12.13.29:537][196]LogBlueprintUserMessages: [NewMap_C_53] WidgetATKBp_C_5
+[2020.12.19-12.13.30:347][230]LogBlueprintUserMessages: [NewMap_C_53] 1
+[2020.12.19-12.13.30:347][230]LogBlueprintUserMessages: [NewMap_C_53] cc
+[2020.12.19-12.13.30:347][230]LogBlueprintUserMessages: [NewMap_C_53] A
+[2020.12.19-12.13.30:347][230]LogBlueprintUserMessages: [NewMap_C_53] 1234
+[2020.12.19-12.13.30:354][230]LogBlueprintUserMessages: [WidgetATKBp_C_6] Hello
+[2020.12.19-12.13.30:354][230]LogScript: Warning: Attempted to access Enemy_IfBot_C_1 via property Myenemy, but Enemy_IfBot_C_1 is pending kill
+	NewMap_C /Game/Crystamania/UEDPIE_0_NewMap.NewMap:PersistentLevel.NewMap_C_53
+	Function /Game/Crystamania/NewMap.NewMap_C:ExecuteUbergraph_NewMap:0777
+[2020.12.19-12.13.30:354][230]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy_IfBot_C_1 via property Myenemy, but Enemy_IfBot_C_1 is pending kill". Blueprint:  NewMap Function:  Execute Ubergraph New Map Graph:  EventGraph Node:  DestroyActor
+[2020.12.19-12.13.30:355][230]LogBlueprintUserMessages: [NewMap_C_53] Hello1154
+[2020.12.19-12.13.30:355][230]LogBlueprintUserMessages: [NewMap_C_53] WidgetATKBp_C_6
+[2020.12.19-12.13.33:285][351]LogBlueprintUserMessages: [NewMap_C_53] Hello11
+[2020.12.19-12.13.34:284][392]LogBlueprintUserMessages: [NewMap_C_53] Visible
+[2020.12.19-12.13.35:428][439]LogBlueprintUserMessages: [NewMap_C_53] 114Hello
+[2020.12.19-12.13.38:039][547]LogBlueprintUserMessages: [NewMap_C_53] WidgetATKBp_C_6
+[2020.12.19-12.13.38:855][581]LogBlueprintUserMessages: [NewMap_C_53] 2
+[2020.12.19-12.13.38:855][581]LogBlueprintUserMessages: [NewMap_C_53] cc
+[2020.12.19-12.13.38:855][581]LogBlueprintUserMessages: [NewMap_C_53] A
+[2020.12.19-12.13.38:855][581]LogBlueprintUserMessages: [NewMap_C_53] 1234
+[2020.12.19-12.13.38:861][581]LogBlueprintUserMessages: [WidgetATKBp_C_7] Hello
+[2020.12.19-12.13.38:862][581]LogScript: Warning: Attempted to access Enemy_IfBot_C_0 via property Myenemy, but Enemy_IfBot_C_0 is pending kill
+	NewMap_C /Game/Crystamania/UEDPIE_0_NewMap.NewMap:PersistentLevel.NewMap_C_53
+	Function /Game/Crystamania/NewMap.NewMap_C:ExecuteUbergraph_NewMap:0777
+[2020.12.19-12.13.38:862][581]PIE: Error: Blueprint Runtime Error: "Attempted to access Enemy_IfBot_C_0 via property Myenemy, but Enemy_IfBot_C_0 is pending kill". Blueprint:  NewMap Function:  Execute Ubergraph New Map Graph:  EventGraph Node:  DestroyActor
+[2020.12.19-12.13.38:863][581]LogBlueprintUserMessages: [NewMap_C_53] Hello1154
+[2020.12.19-12.13.38:863][581]LogBlueprintUserMessages: [NewMap_C_53] WidgetATKBp_C_7
+[2020.12.19-12.13.41:384][685]LogBlueprintUserMessages: [NewMap_C_53] Hello11
+[2020.12.19-12.13.42:365][726]LogBlueprintUserMessages: [NewMap_C_53] Visible
+[2020.12.19-12.13.43:603][777]LogBlueprintUserMessages: [NewMap_C_53] 114Hello
+[2020.12.19-12.13.46:220][883]LogBlueprintUserMessages: [NewMap_C_53] WidgetATKBp_C_7
+[2020.12.19-12.13.47:032][917]LogBlueprintUserMessages: [NewMap_C_53] 1
+[2020.12.19-12.13.47:032][917]LogBlueprintUserMessages: [NewMap_C_53] cc
+[2020.12.19-12.13.47:032][917]LogBlueprintUserMessages: [NewMap_C_53] A
+[2020.12.19-12.13.47:032][917]LogBlueprintUserMessages: [NewMap_C_53] 1234
+[2020.12.19-12.13.47:038][917]LogBlueprintUserMessages: [WidgetATKBp_C_8] Hello
+[2020.12.19-12.13.47:039][917]LogScript: Warning: Accessed None trying to read property Myenemy
+	NewMap_C /Game/Crystamania/UEDPIE_0_NewMap.NewMap:PersistentLevel.NewMap_C_53
+	Function /Game/Crystamania/NewMap.NewMap_C:ExecuteUbergraph_NewMap:0777
+[2020.12.19-12.13.47:039][917]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Myenemy". Blueprint:  NewMap Function:  Execute Ubergraph New Map Graph:  EventGraph Node:  DestroyActor
+[2020.12.19-12.13.47:040][917]LogBlueprintUserMessages: [NewMap_C_53] Hello1154
+[2020.12.19-12.13.47:040][917]LogBlueprintUserMessages: [NewMap_C_53] WidgetATKBp_C_8
+[2020.12.19-12.13.49:889][ 35]LogBlueprintUserMessages: [NewMap_C_53] Hello11
+[2020.12.19-12.13.50:887][ 77]LogBlueprintUserMessages: [NewMap_C_53] Visible
+[2020.12.19-12.13.51:506][103]LogBlueprintUserMessages: [NewMap_C_53] 114Hello
+[2020.12.19-12.13.54:108][212]LogBlueprintUserMessages: [NewMap_C_53] WidgetATKBp_C_8
+[2020.12.19-12.13.54:913][246]LogBlueprintUserMessages: [NewMap_C_53] 2
+[2020.12.19-12.13.54:913][246]LogBlueprintUserMessages: [NewMap_C_53] cc
+[2020.12.19-12.13.54:913][246]LogBlueprintUserMessages: [NewMap_C_53] WidgetATKBp_C_7
+[2020.12.19-12.13.57:833][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-12.13.57:833][368]LogWorld: BeginTearingDown for /Game/Crystamania/UEDPIE_0_NewMap
+[2020.12.19-12.13.57:834][368]LogSlate: Window 'CRYSTAMANIA_Paper Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.12.19-12.13.57:841][368]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.19-12.13.57:843][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-12.13.57:854][368]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.19-12.13.57:861][368]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-12.13.57:937][368]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000015D0276E200), frame # 656368
+[2020.12.19-12.13.57:937][368]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000015C68197E00), frame # 656368
+[2020.12.19-12.13.57:944][368]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2020.12.19-12.13.58:141][369]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2020.12.19-12.15.58:189][824]LogEditorTransaction: Undo Move Widget
+[2020.12.19-12.16.22:683][708]LogSlate: Window 'Message Log' being destroyed
+[2020.12.19-12.16.22:692][708]LogSlate: Window 'Message Log' being destroyed
+[2020.12.19-12.16.54:694][840]LogUObjectHash: Compacting FUObjectHashTables data took   8.27ms
+[2020.12.19-12.16.55:296][840]LogSavePackage: Moving 'D:/github/1/CRYSTAMANIA/Unreal_Projects/CRYSTAMANIA_Paper/Saved/NewMap_Auto17642A49C412E7F16DBFDE386BF290186.tmp' to 'D:/github/1/CRYSTAMANIA/Unreal_Projects/CRYSTAMANIA_Paper/Saved/Autosaves/Game/Crystamania/NewMap_Auto1.umap'
+[2020.12.19-12.16.55:298][840]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Crystamania/NewMap' took 0.696
+[2020.12.19-12.16.55:298][840]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.696
+[2020.12.19-12.16.55:300][840]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/HUDBlueprint] ([1] browsable assets)...
+[2020.12.19-12.16.55:300][840]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HUDBlueprint]
+[2020.12.19-12.16.55:642][840]LogSavePackage: Moving 'D:/github/1/CRYSTAMANIA/Unreal_Projects/CRYSTAMANIA_Paper/Saved/HUDBlueprint_Auto12BDEF6BF4B06ED24F7D184B15E74182C.tmp' to 'D:/github/1/CRYSTAMANIA/Unreal_Projects/CRYSTAMANIA_Paper/Saved/Autosaves/Game/Blueprints/HUDBlueprint_Auto1.uasset'
+[2020.12.19-12.16.55:674][840]LogFileHelpers: Auto-saving content packages took 0.376
+[2020.12.19-12.23.04:788][765]BlueprintLog: New page: Compile HUDBlueprint
+[2020.12.19-12.23.05:170][765]LogBlueprint: Warning: [Compiler HUDBlueprint] Could not find a variable named "action_border_1" in 'HUDBlueprint_C'.
+Make sure 'HUDBlueprint_C' has been compiled for  Get action_border_1
+[2020.12.19-12.23.05:170][765]LogBlueprint: Warning: [Compiler HUDBlueprint] Could not find a variable named "action_border_1" in 'HUDBlueprint_C'.
+Make sure 'HUDBlueprint_C' has been compiled for  Get action_border_1
+[2020.12.19-12.23.05:216][765]LogBlueprint: Error: [Compiler HUDBlueprint] The property associated with  Action Border 1  could not be found in '/Game/Blueprints/HUDBlueprint.HUDBlueprint_C'
+[2020.12.19-12.23.05:217][765]LogBlueprint: Error: [Compiler HUDBlueprint] The property associated with  Action Border 1  could not be found in '/Game/Blueprints/HUDBlueprint.HUDBlueprint_C'
+[2020.12.19-12.23.05:350][765]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2020.12.19-12.23.13:286][ 89]BlueprintLog: New page: Compile HUDBlueprint
+[2020.12.19-12.23.13:307][ 89]LogBlueprint: Warning: [Compiler HUDBlueprint] Could not find a variable named "action_border_1" in 'HUDBlueprint_C'.
+Make sure 'HUDBlueprint_C' has been compiled for  Get action_border_1
+[2020.12.19-12.23.13:329][ 89]LogBlueprint: Error: [Compiler HUDBlueprint] The property associated with  Action Border 1  could not be found in '/Game/Blueprints/HUDBlueprint.HUDBlueprint_C'
+[2020.12.19-12.23.13:432][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   7.27ms
+[2020.12.19-12.23.17:832][343]BlueprintLog: New page: Compile HUDBlueprint
+[2020.12.19-12.23.18:031][343]LogUObjectHash: Compacting FUObjectHashTables data took   6.63ms
+[2020.12.19-12.23.19:078][395]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.19-12.23.19:103][395]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.19-12.23.19:103][395]PIE: New page: PIE session: NewMap (Dec 20, 2020, 2:23:19 AM)
+[2020.12.19-12.23.19:103][395]LogPlayLevel: Creating play world package: /Game/Crystamania/UEDPIE_0_NewMap
+[2020.12.19-12.23.19:176][395]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072440s)
+[2020.12.19-12.23.19:177][395]LogAIModule: Creating AISystem for world NewMap
+[2020.12.19-12.23.19:177][395]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000015C524DFE00), frame # 677395
+[2020.12.19-12.23.19:177][395]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000015C8939FD80), frame # 677395
+[2020.12.19-12.23.19:178][395]LogPlayLevel: PIE: World Init took: (0.001830s)
+[2020.12.19-12.23.19:178][395]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Crystamania/NewMap.NewMap to /Game/Crystamania/UEDPIE_0_NewMap.NewMap (0.074447s)
+[2020.12.19-12.23.19:239][395]LogUObjectHash: Compacting FUObjectHashTables data took   6.41ms
+[2020.12.19-12.23.19:240][395]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.19-12.23.19:240][395]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.19-12.23.19:240][395]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.19-12.23.19:240][395]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.19-12.23.19:240][395]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.19-12.23.19:240][395]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.19-12.23.19:240][395]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.19-12.23.19:240][395]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.19-12.23.19:241][395]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.19-12.23.19:241][395]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.19-12.23.19:246][395]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.19-12.23.19:246][395]LogAudioMixer: Display: 1: FrontRight
+[2020.12.19-12.23.19:269][395]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek High Definition Audio)
+[2020.12.19-12.23.19:270][395]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.19-12.23.19:270][395]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.19-12.23.19:270][395]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.19-12.23.19:270][395]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.19-12.23.19:284][395]LogInit: FAudioDevice initialized.
+[2020.12.19-12.23.19:383][395]LogLoad: Game class is 'NewGameMode_C'
+[2020.12.19-12.23.19:393][395]LogWorld: Bringing World /Game/Crystamania/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2020.12.19-19.23.19
+[2020.12.19-12.23.19:393][395]LogWorld: Bringing up level for play took: 0.009214
+[2020.12.19-12.23.19:394][395]LogOnline: OSS: Creating online subsystem instance for: :Context_83
+[2020.12.19-12.23.19:396][395]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.12.19-12.23.19:400][395]LogBlueprintUserMessages: [NewMap_C_53] Actor_player
+[2020.12.19-12.23.19:400][395]LogBlueprintUserMessages: [NewMap_C_53] Actor_player1
+[2020.12.19-12.23.19:407][395]PIE: Server logged in
+[2020.12.19-12.23.19:408][395]PIE: Play in editor total start time 0.306 seconds.
+[2020.12.19-12.23.26:404][818]LogBlueprintUserMessages: [NewMap_C_53] 1   1
+[2020.12.19-12.23.29:179][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-12.23.29:179][984]LogWorld: BeginTearingDown for /Game/Crystamania/UEDPIE_0_NewMap
+[2020.12.19-12.23.29:179][984]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.19-12.23.29:181][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-12.23.29:190][984]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.19-12.23.29:197][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-12.23.29:269][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-12.23.29:271][984]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000015C8939FD80), frame # 677984
+[2020.12.19-12.23.29:271][984]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000015C524DFE00), frame # 677984
+[2020.12.19-12.23.29:277][984]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2020.12.19-12.23.29:326][985]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2020.12.19-12.23.41:933][441]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.19-12.23.41:954][441]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.12.19-12.23.41:962][441]LogPlayLevel: [PlayLevel] Compiling HUDBlueprint before play...
+[2020.12.19-12.23.42:410][441]LogUObjectHash: Compacting FUObjectHashTables data took   6.87ms
+[2020.12.19-12.23.42:413][441]LogPlayLevel: PlayLevel: Blueprint regeneration took 459 ms (1 blueprints)
+[2020.12.19-12.23.42:413][441]PIE: New page: PIE session: NewMap (Dec 20, 2020, 2:23:42 AM)
+[2020.12.19-12.23.42:414][441]LogPlayLevel: Creating play world package: /Game/Crystamania/UEDPIE_0_NewMap
+[2020.12.19-12.23.42:487][441]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073239s)
+[2020.12.19-12.23.42:488][441]LogAIModule: Creating AISystem for world NewMap
+[2020.12.19-12.23.42:488][441]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000015CF8A50E00), frame # 678441
+[2020.12.19-12.23.42:488][441]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000015C39862980), frame # 678441
+[2020.12.19-12.23.42:488][441]LogPlayLevel: PIE: World Init took: (0.001253s)
+[2020.12.19-12.23.42:488][441]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Crystamania/NewMap.NewMap to /Game/Crystamania/UEDPIE_0_NewMap.NewMap (0.074646s)
+[2020.12.19-12.23.42:542][441]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2020.12.19-12.23.42:544][441]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.19-12.23.42:544][441]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.19-12.23.42:544][441]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.19-12.23.42:544][441]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.19-12.23.42:544][441]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.19-12.23.42:544][441]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.19-12.23.42:544][441]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.19-12.23.42:544][441]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.19-12.23.42:545][441]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.19-12.23.42:545][441]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.19-12.23.42:549][441]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.19-12.23.42:549][441]LogAudioMixer: Display: 1: FrontRight
+[2020.12.19-12.23.42:572][441]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek High Definition Audio)
+[2020.12.19-12.23.42:572][441]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.19-12.23.42:572][441]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.19-12.23.42:572][441]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.19-12.23.42:572][441]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.19-12.23.42:586][441]LogInit: FAudioDevice initialized.
+[2020.12.19-12.23.42:595][441]LogLoad: Game class is 'NewGameMode_C'
+[2020.12.19-12.23.42:605][441]LogWorld: Bringing World /Game/Crystamania/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2020.12.19-19.23.42
+[2020.12.19-12.23.42:605][441]LogWorld: Bringing up level for play took: 0.008827
+[2020.12.19-12.23.42:605][441]LogOnline: OSS: Creating online subsystem instance for: :Context_84
+[2020.12.19-12.23.42:624][441]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.12.19-12.23.42:628][441]LogBlueprintUserMessages: [NewMap_C_53] Actor_player
+[2020.12.19-12.23.42:628][441]LogBlueprintUserMessages: [NewMap_C_53] Actor_player1
+[2020.12.19-12.23.42:636][441]PIE: Server logged in
+[2020.12.19-12.23.42:637][441]PIE: Play in editor total start time 0.684 seconds.
+[2020.12.19-12.23.46:797][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-12.23.46:797][661]LogWorld: BeginTearingDown for /Game/Crystamania/UEDPIE_0_NewMap
+[2020.12.19-12.23.46:797][661]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.19-12.23.46:799][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-12.23.46:808][661]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.19-12.23.46:815][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-12.23.46:869][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-12.23.46:889][661]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000015C39862980), frame # 678661
+[2020.12.19-12.23.46:889][661]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000015CF8A50E00), frame # 678661
+[2020.12.19-12.23.46:895][661]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2020.12.19-12.23.46:954][662]LogPlayLevel: Display: Destroying online subsystem :Context_84
+[2020.12.19-12.23.58:501][234]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.19-12.23.58:522][234]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.12.19-12.23.58:531][234]LogPlayLevel: [PlayLevel] Compiling HUDBlueprint before play...
+[2020.12.19-12.23.58:841][234]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2020.12.19-12.23.58:846][234]LogPlayLevel: PlayLevel: Blueprint regeneration took 323 ms (1 blueprints)
+[2020.12.19-12.23.58:846][234]PIE: New page: PIE session: NewMap (Dec 20, 2020, 2:23:58 AM)
+[2020.12.19-12.23.58:846][234]LogPlayLevel: Creating play world package: /Game/Crystamania/UEDPIE_0_NewMap
+[2020.12.19-12.23.58:921][234]LogPlayLevel: PIE: StaticDuplicateObject took: (0.074474s)
+[2020.12.19-12.23.58:922][234]LogAIModule: Creating AISystem for world NewMap
+[2020.12.19-12.23.58:922][234]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000015CA295AA00), frame # 679234
+[2020.12.19-12.23.58:922][234]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000015C391FFD80), frame # 679234
+[2020.12.19-12.23.58:922][234]LogPlayLevel: PIE: World Init took: (0.001215s)
+[2020.12.19-12.23.58:922][234]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Crystamania/NewMap.NewMap to /Game/Crystamania/UEDPIE_0_NewMap.NewMap (0.075908s)
+[2020.12.19-12.23.58:976][234]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2020.12.19-12.23.58:977][234]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.19-12.23.58:977][234]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.19-12.23.58:977][234]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.19-12.23.58:977][234]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.19-12.23.58:977][234]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.19-12.23.58:977][234]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.19-12.23.58:977][234]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.19-12.23.58:977][234]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.19-12.23.58:978][234]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.19-12.23.58:978][234]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.19-12.23.58:982][234]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.19-12.23.58:982][234]LogAudioMixer: Display: 1: FrontRight
+[2020.12.19-12.23.59:004][234]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek High Definition Audio)
+[2020.12.19-12.23.59:005][234]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.19-12.23.59:005][234]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.19-12.23.59:005][234]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.19-12.23.59:005][234]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.19-12.23.59:017][234]LogInit: FAudioDevice initialized.
+[2020.12.19-12.23.59:027][234]LogLoad: Game class is 'NewGameMode_C'
+[2020.12.19-12.23.59:036][234]LogWorld: Bringing World /Game/Crystamania/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2020.12.19-19.23.59
+[2020.12.19-12.23.59:037][234]LogWorld: Bringing up level for play took: 0.009146
+[2020.12.19-12.23.59:037][234]LogOnline: OSS: Creating online subsystem instance for: :Context_85
+[2020.12.19-12.23.59:039][234]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.12.19-12.23.59:043][234]LogBlueprintUserMessages: [NewMap_C_53] Actor_player
+[2020.12.19-12.23.59:043][234]LogBlueprintUserMessages: [NewMap_C_53] Actor_player1
+[2020.12.19-12.23.59:051][234]PIE: Server logged in
+[2020.12.19-12.23.59:052][234]PIE: Play in editor total start time 0.532 seconds.
+[2020.12.19-12.24.06:137][623]LogBlueprintUserMessages: [NewMap_C_53] 1   6
+[2020.12.19-12.24.07:383][693]LogBlueprintUserMessages: [NewMap_C_53] 2   6
+[2020.12.19-12.24.07:594][705]LogBlueprintUserMessages: [NewMap_C_53] 3   6
+[2020.12.19-12.24.07:806][717]LogBlueprintUserMessages: [NewMap_C_53] 4   6
+[2020.12.19-12.24.08:021][729]LogBlueprintUserMessages: [NewMap_C_53] 5   6
+[2020.12.19-12.24.08:234][741]LogBlueprintUserMessages: [NewMap_C_53] 6   6
+[2020.12.19-12.24.08:448][753]LogBlueprintUserMessages: [HUDBlueprint_C_0] Hello
+[2020.12.19-12.24.08:448][753]LogBlueprintUserMessages: [NewMap_C_53] 2
+[2020.12.19-12.24.08:448][753]LogBlueprintUserMessages: [NewMap_C_53] cc
+[2020.12.19-12.24.14:671][103]LogBlueprintUserMessages: [NewMap_C_53] 1   2
+[2020.12.19-12.24.15:942][174]LogBlueprintUserMessages: [NewMap_C_53] 2   2
+[2020.12.19-12.24.16:153][186]LogBlueprintUserMessages: [NewMap_C_53] enemy
+[2020.12.19-12.24.16:160][186]LogBlueprintUserMessages: [WidgetATKBp_C_0] Hello
+[2020.12.19-12.24.22:420][530]LogBlueprintUserMessages: [NewMap_C_53] None
+[2020.12.19-12.24.22:420][530]LogBlueprintUserMessages: [NewMap_C_53] 1
+[2020.12.19-12.24.22:420][530]LogBlueprintUserMessages: [NewMap_C_53] cc
+[2020.12.19-12.24.23:197][574]LogBlueprintUserMessages: [NewMap_C_53] 1   5
+[2020.12.19-12.24.24:235][632]LogBlueprintUserMessages: [NewMap_C_53] 2   5
+[2020.12.19-12.24.24:446][644]LogBlueprintUserMessages: [NewMap_C_53] 3   5
+[2020.12.19-12.24.24:658][656]LogBlueprintUserMessages: [NewMap_C_53] 4   5
+[2020.12.19-12.24.24:871][668]LogBlueprintUserMessages: [NewMap_C_53] 5   5
+[2020.12.19-12.24.25:083][680]LogBlueprintUserMessages: [NewMap_C_53] Pass
+[2020.12.19-12.24.25:083][680]LogBlueprintUserMessages: [NewMap_C_53] 2
+[2020.12.19-12.24.25:083][680]LogBlueprintUserMessages: [NewMap_C_53] cc
+[2020.12.19-12.24.25:903][726]LogBlueprintUserMessages: [NewMap_C_53] 1   2
+[2020.12.19-12.24.26:098][737]LogBlueprintUserMessages: [NewMap_C_53] 2   2
+[2020.12.19-12.24.26:311][749]LogBlueprintUserMessages: [NewMap_C_53] enemy
+[2020.12.19-12.24.26:317][749]LogBlueprintUserMessages: [WidgetATKBp_C_1] Hello
+[2020.12.19-12.24.33:250][128]LogBlueprintUserMessages: [NewMap_C_53] combat
+[2020.12.19-12.24.33:250][128]LogBlueprintUserMessages: [NewMap_C_53] 1
+[2020.12.19-12.24.33:250][128]LogBlueprintUserMessages: [NewMap_C_53] cc
+[2020.12.19-12.24.34:055][173]LogBlueprintUserMessages: [NewMap_C_53] 1   3
+[2020.12.19-12.24.34:250][184]LogBlueprintUserMessages: [NewMap_C_53] 2   3
+[2020.12.19-12.24.35:325][244]LogBlueprintUserMessages: [NewMap_C_53] 3   3
+[2020.12.19-12.24.35:541][256]LogBlueprintUserMessages: [NewMap_C_53] Pass
+[2020.12.19-12.24.35:541][256]LogBlueprintUserMessages: [NewMap_C_53] 2
+[2020.12.19-12.24.35:541][256]LogBlueprintUserMessages: [NewMap_C_53] cc
+[2020.12.19-12.24.35:547][256]LogBlueprintUserMessages: [WidgetATKBp_C_2] Hello
+[2020.12.19-12.24.42:211][617]LogBlueprintUserMessages: [NewMap_C_53] None
+[2020.12.19-12.24.42:212][617]LogBlueprintUserMessages: [NewMap_C_53] 1
+[2020.12.19-12.24.42:212][617]LogBlueprintUserMessages: [NewMap_C_53] cc
+[2020.12.19-12.24.43:156][669]LogBlueprintUserMessages: [NewMap_C_53] 1   3
+[2020.12.19-12.24.43:352][680]LogBlueprintUserMessages: [NewMap_C_53] 2   3
+[2020.12.19-12.24.43:564][692]LogBlueprintUserMessages: [NewMap_C_53] 3   3
+[2020.12.19-12.24.43:774][704]LogBlueprintUserMessages: [NewMap_C_53] enemy
+[2020.12.19-12.24.43:781][704]LogBlueprintUserMessages: [WidgetATKBp_C_3] Hello
+[2020.12.19-12.24.51:888][152]LogBlueprintUserMessages: [NewMap_C_53] combat
+[2020.12.19-12.24.51:888][152]LogBlueprintUserMessages: [NewMap_C_53] 2
+[2020.12.19-12.24.51:888][152]LogBlueprintUserMessages: [NewMap_C_53] cc
+[2020.12.19-12.24.53:578][247]LogBlueprintUserMessages: [NewMap_C_53] 1   1
+[2020.12.19-12.24.54:770][313]LogBlueprintUserMessages: [NewMap_C_53] enemy
+[2020.12.19-12.24.54:777][313]LogBlueprintUserMessages: [WidgetATKBp_C_4] Hello
+[2020.12.19-12.25.01:626][687]LogBlueprintUserMessages: [NewMap_C_53] None
+[2020.12.19-12.25.01:626][687]LogBlueprintUserMessages: [NewMap_C_53] 1
+[2020.12.19-12.25.01:626][687]LogBlueprintUserMessages: [NewMap_C_53] cc
+[2020.12.19-12.25.01:633][687]LogBlueprintUserMessages: [WidgetATKBp_C_5] Hello
+[2020.12.19-12.25.09:192][102]LogBlueprintUserMessages: [NewMap_C_53] combat
+[2020.12.19-12.25.09:192][102]LogBlueprintUserMessages: [NewMap_C_53] 2
+[2020.12.19-12.25.09:192][102]LogBlueprintUserMessages: [NewMap_C_53] cc
+[2020.12.19-12.25.13:297][331]LogBlueprintUserMessages: [NewMap_C_53] 1   4
+[2020.12.19-12.25.14:978][425]LogBlueprintUserMessages: [NewMap_C_53] 2   4
+[2020.12.19-12.25.15:191][437]LogBlueprintUserMessages: [NewMap_C_53] 3   4
+[2020.12.19-12.25.15:407][449]LogBlueprintUserMessages: [NewMap_C_53] 4   4
+[2020.12.19-12.25.15:617][461]LogBlueprintUserMessages: [NewMap_C_53] Pass
+[2020.12.19-12.25.15:617][461]LogBlueprintUserMessages: [NewMap_C_53] 1
+[2020.12.19-12.25.15:617][461]LogBlueprintUserMessages: [NewMap_C_53] cc
+[2020.12.19-12.25.15:623][461]LogBlueprintUserMessages: [WidgetATKBp_C_6] Hello
+[2020.12.19-12.25.23:599][900]LogBlueprintUserMessages: [NewMap_C_53] combat
+[2020.12.19-12.25.23:599][900]LogBlueprintUserMessages: [NewMap_C_53] 2
+[2020.12.19-12.25.23:599][900]LogBlueprintUserMessages: [NewMap_C_53] cc
+[2020.12.19-12.25.26:186][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-12.25.26:186][ 43]LogWorld: BeginTearingDown for /Game/Crystamania/UEDPIE_0_NewMap
+[2020.12.19-12.25.26:186][ 43]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.19-12.25.26:188][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-12.25.26:202][ 43]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.19-12.25.26:210][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-12.25.26:264][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-12.25.26:286][ 43]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000015C391FFD80), frame # 684043
+[2020.12.19-12.25.26:286][ 43]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000015CA295AA00), frame # 684043
+[2020.12.19-12.25.26:292][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2020.12.19-12.25.26:374][ 44]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2020.12.19-12.27.12:770][308]BlueprintLog: New page: Compile NewMap
+[2020.12.19-12.27.13:165][308]LogUObjectHash: Compacting FUObjectHashTables data took   6.03ms
+[2020.12.19-12.27.14:542][359]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.19-12.27.14:568][359]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.19-12.27.14:568][359]PIE: New page: PIE session: NewMap (Dec 20, 2020, 2:27:14 AM)
+[2020.12.19-12.27.14:568][359]LogPlayLevel: Creating play world package: /Game/Crystamania/UEDPIE_0_NewMap
+[2020.12.19-12.27.14:641][359]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073077s)
+[2020.12.19-12.27.14:642][359]LogAIModule: Creating AISystem for world NewMap
+[2020.12.19-12.27.14:642][359]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000015C6A7E8600), frame # 689359
+[2020.12.19-12.27.14:642][359]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000015C53FD60C0), frame # 689359
+[2020.12.19-12.27.14:642][359]LogPlayLevel: PIE: World Init took: (0.001481s)
+[2020.12.19-12.27.14:642][359]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Crystamania/NewMap.NewMap to /Game/Crystamania/UEDPIE_0_NewMap.NewMap (0.074712s)
+[2020.12.19-12.27.14:700][359]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2020.12.19-12.27.14:701][359]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.19-12.27.14:701][359]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.19-12.27.14:701][359]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.19-12.27.14:701][359]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.19-12.27.14:701][359]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.19-12.27.14:701][359]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.19-12.27.14:701][359]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.19-12.27.14:701][359]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.19-12.27.14:702][359]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.19-12.27.14:702][359]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.19-12.27.14:705][359]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.19-12.27.14:705][359]LogAudioMixer: Display: 1: FrontRight
+[2020.12.19-12.27.14:730][359]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek High Definition Audio)
+[2020.12.19-12.27.14:730][359]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.19-12.27.14:731][359]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.19-12.27.14:731][359]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.19-12.27.14:731][359]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.19-12.27.14:744][359]LogInit: FAudioDevice initialized.
+[2020.12.19-12.27.14:801][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-12.27.14:801][359]LogLoad: Game class is 'NewGameMode_C'
+[2020.12.19-12.27.14:810][359]LogWorld: Bringing World /Game/Crystamania/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2020.12.19-19.27.14
+[2020.12.19-12.27.14:811][359]LogWorld: Bringing up level for play took: 0.009001
+[2020.12.19-12.27.14:811][359]LogOnline: OSS: Creating online subsystem instance for: :Context_86
+[2020.12.19-12.27.14:813][359]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.12.19-12.27.14:813][359]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.12.19-12.27.14:817][359]LogBlueprintUserMessages: [NewMap_C_54] Actor_player
+[2020.12.19-12.27.14:817][359]LogBlueprintUserMessages: [NewMap_C_54] Actor_player1
+[2020.12.19-12.27.14:830][359]PIE: Server logged in
+[2020.12.19-12.27.14:835][359]PIE: Play in editor total start time 0.268 seconds.
+[2020.12.19-12.27.15:912][404]LogBlueprintUserMessages: [NewMap_C_54] 1   6
+[2020.12.19-12.27.17:158][461]LogBlueprintUserMessages: [NewMap_C_54] 2   6
+[2020.12.19-12.27.17:375][471]LogBlueprintUserMessages: [NewMap_C_54] 3   6
+[2020.12.19-12.27.17:588][481]LogBlueprintUserMessages: [NewMap_C_54] 4   6
+[2020.12.19-12.27.17:800][491]LogBlueprintUserMessages: [NewMap_C_54] 5   6
+[2020.12.19-12.27.18:014][501]LogBlueprintUserMessages: [NewMap_C_54] 6   6
+[2020.12.19-12.27.18:224][511]LogBlueprintUserMessages: [HUDBlueprint_C_0] Hello
+[2020.12.19-12.27.18:224][511]LogBlueprintUserMessages: [NewMap_C_54] 2
+[2020.12.19-12.27.18:225][511]LogBlueprintUserMessages: [NewMap_C_54] cc
+[2020.12.19-12.27.21:761][673]LogBlueprintUserMessages: [NewMap_C_54] 1   5
+[2020.12.19-12.27.22:597][711]LogBlueprintUserMessages: [NewMap_C_54] 2   5
+[2020.12.19-12.27.22:810][721]LogBlueprintUserMessages: [NewMap_C_54] 3   5
+[2020.12.19-12.27.23:022][731]LogBlueprintUserMessages: [NewMap_C_54] 4   5
+[2020.12.19-12.27.23:237][741]LogBlueprintUserMessages: [NewMap_C_54] 5   5
+[2020.12.19-12.27.23:456][751]LogBlueprintUserMessages: [NewMap_C_54] Pass
+[2020.12.19-12.27.23:456][751]LogBlueprintUserMessages: [NewMap_C_54] 1
+[2020.12.19-12.27.23:456][751]LogBlueprintUserMessages: [NewMap_C_54] cc
+[2020.12.19-12.27.24:214][786]LogBlueprintUserMessages: [NewMap_C_54] 1   2
+[2020.12.19-12.27.25:475][844]LogBlueprintUserMessages: [NewMap_C_54] 2   2
+[2020.12.19-12.27.25:688][854]LogBlueprintUserMessages: [NewMap_C_54] enemy
+[2020.12.19-12.27.25:695][854]LogBlueprintUserMessages: [WidgetATKBp_C_0] Hello
+[2020.12.19-12.27.31:884][137]LogBlueprintUserMessages: [NewMap_C_54] None
+[2020.12.19-12.27.31:884][137]LogBlueprintUserMessages: [NewMap_C_54] 2
+[2020.12.19-12.27.31:884][137]LogBlueprintUserMessages: [NewMap_C_54] cc
+[2020.12.19-12.27.32:465][164]LogBlueprintUserMessages: [NewMap_C_54] 1   5
+[2020.12.19-12.27.32:664][173]LogBlueprintUserMessages: [NewMap_C_54] 2   5
+[2020.12.19-12.27.33:965][233]LogBlueprintUserMessages: [NewMap_C_54] 3   5
+[2020.12.19-12.27.34:183][243]LogBlueprintUserMessages: [NewMap_C_54] 4   5
+[2020.12.19-12.27.34:401][253]LogBlueprintUserMessages: [NewMap_C_54] 5   5
+[2020.12.19-12.27.34:616][263]LogBlueprintUserMessages: [NewMap_C_54] enemy
+[2020.12.19-12.27.34:622][263]LogBlueprintUserMessages: [WidgetATKBp_C_1] Hello
+[2020.12.19-12.27.41:182][562]LogBlueprintUserMessages: [NewMap_C_54] None
+[2020.12.19-12.27.41:182][562]LogBlueprintUserMessages: [NewMap_C_54] 1
+[2020.12.19-12.27.41:182][562]LogBlueprintUserMessages: [NewMap_C_54] cc
+[2020.12.19-12.27.41:801][590]LogBlueprintUserMessages: [NewMap_C_54] 1   1
+[2020.12.19-12.27.41:981][598]LogBlueprintUserMessages: [NewMap_C_54] enemy
+[2020.12.19-12.27.41:987][598]LogBlueprintUserMessages: [WidgetATKBp_C_2] Hello
+[2020.12.19-12.27.48:603][901]LogBlueprintUserMessages: [NewMap_C_54] combat
+[2020.12.19-12.27.48:604][901]LogBlueprintUserMessages: [NewMap_C_54] 2
+[2020.12.19-12.27.48:604][901]LogBlueprintUserMessages: [NewMap_C_54] cc
+[2020.12.19-12.27.49:444][940]LogBlueprintUserMessages: [NewMap_C_54] 1   3
+[2020.12.19-12.27.49:637][949]LogBlueprintUserMessages: [NewMap_C_54] 2   3
+[2020.12.19-12.27.49:852][959]LogBlueprintUserMessages: [NewMap_C_54] 3   3
+[2020.12.19-12.27.50:904][  7]LogBlueprintUserMessages: [NewMap_C_54] enemy
+[2020.12.19-12.27.50:910][  7]LogBlueprintUserMessages: [WidgetATKBp_C_3] Hello
+[2020.12.19-12.27.58:112][337]LogBlueprintUserMessages: [NewMap_C_54] combat
+[2020.12.19-12.27.58:113][337]LogBlueprintUserMessages: [NewMap_C_54] 1
+[2020.12.19-12.27.58:113][337]LogBlueprintUserMessages: [NewMap_C_54] cc
+[2020.12.19-12.27.58:119][337]LogBlueprintUserMessages: [WidgetATKBp_C_4] Hello
+[2020.12.19-12.28.05:072][655]LogBlueprintUserMessages: [NewMap_C_54] combat
+[2020.12.19-12.28.05:072][655]LogBlueprintUserMessages: [NewMap_C_54] 2
+[2020.12.19-12.28.05:072][655]LogBlueprintUserMessages: [NewMap_C_54] cc
+[2020.12.19-12.28.05:078][655]LogBlueprintUserMessages: [WidgetATKBp_C_5] Hello
+[2020.12.19-12.28.11:419][946]LogBlueprintUserMessages: [NewMap_C_54] combat
+[2020.12.19-12.28.11:419][946]LogBlueprintUserMessages: [NewMap_C_54] 1
+[2020.12.19-12.28.11:419][946]LogBlueprintUserMessages: [NewMap_C_54] cc
+[2020.12.19-12.28.11:425][946]LogBlueprintUserMessages: [WidgetATKBp_C_6] Hello
+[2020.12.19-12.28.17:947][246]LogBlueprintUserMessages: [NewMap_C_54] combat
+[2020.12.19-12.28.17:948][246]LogBlueprintUserMessages: [NewMap_C_54] 2
+[2020.12.19-12.28.17:948][246]LogBlueprintUserMessages: [NewMap_C_54] cc
+[2020.12.19-12.28.17:954][246]LogBlueprintUserMessages: [WidgetATKBp_C_7] Hello
+[2020.12.19-12.28.28:293][719]LogBlueprintUserMessages: [NewMap_C_54] None
+[2020.12.19-12.28.28:293][719]LogBlueprintUserMessages: [NewMap_C_54] 1
+[2020.12.19-12.28.28:293][719]LogBlueprintUserMessages: [NewMap_C_54] cc
+[2020.12.19-12.28.28:299][719]LogBlueprintUserMessages: [WidgetATKBp_C_8] Hello
+[2020.12.19-12.28.35:337][ 40]LogBlueprintUserMessages: [NewMap_C_54] None
+[2020.12.19-12.28.35:337][ 40]LogBlueprintUserMessages: [NewMap_C_54] 2
+[2020.12.19-12.28.35:337][ 40]LogBlueprintUserMessages: [NewMap_C_54] cc
+[2020.12.19-12.28.37:215][127]LogBlueprintUserMessages: [NewMap_C_54] 1   2
+[2020.12.19-12.28.38:473][185]LogBlueprintUserMessages: [NewMap_C_54] 2   2
+[2020.12.19-12.28.38:686][195]LogBlueprintUserMessages: [NewMap_C_54] enemy
+[2020.12.19-12.28.38:692][195]LogBlueprintUserMessages: [WidgetATKBp_C_9] Hello
+[2020.12.19-12.28.40:383][270]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-12.28.40:383][270]LogWorld: BeginTearingDown for /Game/Crystamania/UEDPIE_0_NewMap
+[2020.12.19-12.28.40:385][270]LogSlate: Window 'CRYSTAMANIA_Paper Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.12.19-12.28.40:393][270]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.19-12.28.40:395][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-12.28.40:408][270]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.19-12.28.40:416][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-12.28.40:494][270]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000015C53FD60C0), frame # 693270
+[2020.12.19-12.28.40:494][270]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000015C6A7E8600), frame # 693270
+[2020.12.19-12.28.40:500][270]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2020.12.19-12.28.40:591][271]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2020.12.19-12.30.49:731][681]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2020.12.19-12.30.50:348][681]LogSavePackage: Moving 'D:/github/1/CRYSTAMANIA/Unreal_Projects/CRYSTAMANIA_Paper/Saved/NewMap_Auto2977B607C4539C7A240156F8E3D1D144C.tmp' to 'D:/github/1/CRYSTAMANIA/Unreal_Projects/CRYSTAMANIA_Paper/Saved/Autosaves/Game/Crystamania/NewMap_Auto2.umap'
+[2020.12.19-12.30.50:350][681]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Crystamania/NewMap' took 0.675
+[2020.12.19-12.30.50:350][681]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.675
+[2020.12.19-12.30.50:350][681]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/HUDBlueprint] ([1] browsable assets)...
+[2020.12.19-12.30.50:350][681]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HUDBlueprint]
+[2020.12.19-12.30.50:559][681]LogSavePackage: Moving 'D:/github/1/CRYSTAMANIA/Unreal_Projects/CRYSTAMANIA_Paper/Saved/HUDBlueprint_Auto2B921E49541B23F077FAF3D9F274A8234.tmp' to 'D:/github/1/CRYSTAMANIA/Unreal_Projects/CRYSTAMANIA_Paper/Saved/Autosaves/Game/Blueprints/HUDBlueprint_Auto2.uasset'
+[2020.12.19-12.30.50:560][681]LogFileHelpers: Auto-saving content packages took 0.211
+[2020.12.19-12.30.53:062][765]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2020.12.19-12.30.53:153][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Crystamania/NewMap" FILE="D:/github/1/CRYSTAMANIA/Unreal_Projects/CRYSTAMANIA_Paper/Content/Crystamania/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.12.19-12.30.53:218][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.12.19-12.30.53:793][765]LogSavePackage: Moving 'D:/github/1/CRYSTAMANIA/Unreal_Projects/CRYSTAMANIA_Paper/Saved/NewMap233346AF448B7DEF29DC329008CFBECD.tmp' to 'D:/github/1/CRYSTAMANIA/Unreal_Projects/CRYSTAMANIA_Paper/Content/Crystamania/NewMap.umap'
+[2020.12.19-12.30.54:061][765]LogFileHelpers: Saving map 'NewMap' took 0.910
+[2020.12.19-12.30.54:062][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Crystamania/NewMap_BuiltData" FILE="D:/github/1/CRYSTAMANIA/Unreal_Projects/CRYSTAMANIA_Paper/Content/Crystamania/NewMap_BuiltData.uasset" SILENT=true
+[2020.12.19-12.30.54:131][765]LogSavePackage: Moving 'D:/github/1/CRYSTAMANIA/Unreal_Projects/CRYSTAMANIA_Paper/Saved/NewMap_BuiltData10E8CA304E384FC5E131CD861C6BF9B2.tmp' to 'D:/github/1/CRYSTAMANIA/Unreal_Projects/CRYSTAMANIA_Paper/Content/Crystamania/NewMap_BuiltData.uasset'
+[2020.12.19-12.30.54:133][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HUDBlueprint" FILE="D:/github/1/CRYSTAMANIA/Unreal_Projects/CRYSTAMANIA_Paper/Content/Blueprints/HUDBlueprint.uasset" SILENT=true
+[2020.12.19-12.30.54:339][765]LogSavePackage: Moving 'D:/github/1/CRYSTAMANIA/Unreal_Projects/CRYSTAMANIA_Paper/Saved/HUDBlueprintFDF169834571BBB9C46F72B46F1B27D2.tmp' to 'D:/github/1/CRYSTAMANIA/Unreal_Projects/CRYSTAMANIA_Paper/Content/Blueprints/HUDBlueprint.uasset'
+[2020.12.19-12.30.54:417][765]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.19-12.30.54:418][765]LogContentValidation: Display: Validating World /Game/Crystamania/NewMap.NewMap
+[2020.12.19-12.30.54:418][765]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Crystamania/NewMap_BuiltData.NewMap_BuiltData
+[2020.12.19-12.30.54:418][765]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/HUDBlueprint.HUDBlueprint
+[2020.12.19-12.32.15:993][997]BlueprintLog: New page: Compile HUDBlueprint
+[2020.12.19-12.32.16:155][997]LogUObjectHash: Compacting FUObjectHashTables data took   6.92ms
+[2020.12.19-12.36.26:337][473]BlueprintLog: New page: Compile HUDBlueprint
+[2020.12.19-12.36.26:783][473]LogUObjectHash: Compacting FUObjectHashTables data took   7.03ms
+[2020.12.19-12.37.05:587][ 26]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.19-12.37.05:610][ 26]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.19-12.37.05:611][ 26]PIE: New page: PIE session: NewMap (Dec 20, 2020, 2:37:05 AM)
+[2020.12.19-12.37.05:612][ 26]LogPlayLevel: Creating play world package: /Game/Crystamania/UEDPIE_0_NewMap
+[2020.12.19-12.37.05:685][ 26]LogPlayLevel: PIE: StaticDuplicateObject took: (0.072798s)
+[2020.12.19-12.37.05:686][ 26]LogAIModule: Creating AISystem for world NewMap
+[2020.12.19-12.37.05:686][ 26]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000015C55B99000), frame # 712026
+[2020.12.19-12.37.05:686][ 26]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000015CEA328B80), frame # 712026
+[2020.12.19-12.37.05:686][ 26]LogPlayLevel: PIE: World Init took: (0.001342s)
+[2020.12.19-12.37.05:686][ 26]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Crystamania/NewMap.NewMap to /Game/Crystamania/UEDPIE_0_NewMap.NewMap (0.074295s)
+[2020.12.19-12.37.05:754][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   6.20ms
+[2020.12.19-12.37.05:757][ 26]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.19-12.37.05:757][ 26]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.19-12.37.05:757][ 26]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.19-12.37.05:757][ 26]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.19-12.37.05:757][ 26]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.19-12.37.05:757][ 26]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.19-12.37.05:757][ 26]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.19-12.37.05:757][ 26]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.19-12.37.05:758][ 26]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.19-12.37.05:758][ 26]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.19-12.37.05:762][ 26]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.19-12.37.05:762][ 26]LogAudioMixer: Display: 1: FrontRight
+[2020.12.19-12.37.05:786][ 26]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek High Definition Audio)
+[2020.12.19-12.37.05:789][ 26]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.19-12.37.05:789][ 26]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.19-12.37.05:790][ 26]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.19-12.37.05:790][ 26]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.19-12.37.05:800][ 26]LogInit: FAudioDevice initialized.
+[2020.12.19-12.37.05:846][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-12.37.05:846][ 26]LogLoad: Game class is 'NewGameMode_C'
+[2020.12.19-12.37.05:855][ 26]LogWorld: Bringing World /Game/Crystamania/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2020.12.19-19.37.05
+[2020.12.19-12.37.05:855][ 26]LogWorld: Bringing up level for play took: 0.008971
+[2020.12.19-12.37.05:856][ 26]LogOnline: OSS: Creating online subsystem instance for: :Context_87
+[2020.12.19-12.37.05:858][ 26]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.12.19-12.37.05:858][ 26]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.12.19-12.37.05:862][ 26]LogBlueprintUserMessages: [NewMap_C_54] Actor_player
+[2020.12.19-12.37.05:862][ 26]LogBlueprintUserMessages: [NewMap_C_54] Actor_player1
+[2020.12.19-12.37.05:886][ 26]PIE: Server logged in
+[2020.12.19-12.37.05:901][ 26]PIE: Play in editor total start time 0.293 seconds.
+[2020.12.19-12.37.07:432][ 81]LogBlueprintUserMessages: [NewMap_C_54] 1   1
+[2020.12.19-12.37.08:451][120]LogBlueprintUserMessages: [NewMap_C_54] enemy
+[2020.12.19-12.37.08:458][120]LogBlueprintUserMessages: [WidgetATKBp_C_0] Hello
+[2020.12.19-12.37.15:698][399]LogBlueprintUserMessages: [NewMap_C_54] combat
+[2020.12.19-12.37.15:698][399]LogBlueprintUserMessages: [NewMap_C_54] 2
+[2020.12.19-12.37.15:698][399]LogBlueprintUserMessages: [NewMap_C_54] cc
+[2020.12.19-12.37.16:823][443]LogBlueprintUserMessages: [NewMap_C_54] 1   1
+[2020.12.19-12.37.18:243][498]LogBlueprintUserMessages: [NewMap_C_54] enemy
+[2020.12.19-12.37.18:250][498]LogBlueprintUserMessages: [WidgetATKBp_C_1] Hello
+[2020.12.19-12.37.24:966][758]LogBlueprintUserMessages: [NewMap_C_54] combat
+[2020.12.19-12.37.24:966][758]LogBlueprintUserMessages: [NewMap_C_54] 1
+[2020.12.19-12.37.24:966][758]LogBlueprintUserMessages: [NewMap_C_54] cc
+[2020.12.19-12.37.24:972][758]LogBlueprintUserMessages: [WidgetATKBp_C_2] Hello
+[2020.12.19-12.37.31:428][ 10]LogBlueprintUserMessages: [NewMap_C_54] combat
+[2020.12.19-12.37.31:428][ 10]LogBlueprintUserMessages: [NewMap_C_54] 2
+[2020.12.19-12.37.31:428][ 10]LogBlueprintUserMessages: [NewMap_C_54] cc
+[2020.12.19-12.37.31:434][ 10]LogBlueprintUserMessages: [WidgetATKBp_C_3] Hello
+[2020.12.19-12.37.36:937][224]LogBlueprintUserMessages: [NewMap_C_54] None
+[2020.12.19-12.37.36:937][224]LogBlueprintUserMessages: [NewMap_C_54] 1
+[2020.12.19-12.37.36:937][224]LogBlueprintUserMessages: [NewMap_C_54] cc
+[2020.12.19-12.37.36:943][224]LogBlueprintUserMessages: [WidgetATKBp_C_4] Hello
+[2020.12.19-12.37.43:303][470]LogBlueprintUserMessages: [NewMap_C_54] None
+[2020.12.19-12.37.43:304][470]LogBlueprintUserMessages: [NewMap_C_54] 2
+[2020.12.19-12.37.43:304][470]LogBlueprintUserMessages: [NewMap_C_54] cc
+[2020.12.19-12.37.43:888][492]LogBlueprintUserMessages: [NewMap_C_54] 1   6
+[2020.12.19-12.37.44:077][499]LogBlueprintUserMessages: [NewMap_C_54] 2   6
+[2020.12.19-12.37.44:283][507]LogBlueprintUserMessages: [NewMap_C_54] 3   6
+[2020.12.19-12.37.44:493][515]LogBlueprintUserMessages: [NewMap_C_54] 4   6
+[2020.12.19-12.37.44:698][523]LogBlueprintUserMessages: [NewMap_C_54] 5   6
+[2020.12.19-12.37.44:902][531]LogBlueprintUserMessages: [NewMap_C_54] 6   6
+[2020.12.19-12.37.50:758][755]LogBlueprintUserMessages: [NewMap_C_54] Pass
+[2020.12.19-12.37.50:759][755]LogBlueprintUserMessages: [NewMap_C_54] 1
+[2020.12.19-12.37.50:759][755]LogBlueprintUserMessages: [NewMap_C_54] cc
+[2020.12.19-12.37.52:907][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-12.37.52:908][838]LogWorld: BeginTearingDown for /Game/Crystamania/UEDPIE_0_NewMap
+[2020.12.19-12.37.52:909][838]LogSlate: Window 'CRYSTAMANIA_Paper Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.12.19-12.37.52:915][838]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.19-12.37.52:918][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-12.37.52:936][838]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.19-12.37.52:943][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-12.37.53:018][838]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000015CEA328B80), frame # 713838
+[2020.12.19-12.37.53:018][838]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000015C55B99000), frame # 713838
+[2020.12.19-12.37.53:025][838]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2020.12.19-12.37.53:077][839]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2020.12.19-12.40.26:862][ 14]BlueprintLog: New page: Compile HUDBlueprint
+[2020.12.19-12.40.27:310][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   7.03ms
+[2020.12.19-12.40.37:542][432]LogTemp: Repeating last play command: Selected Viewport
+[2020.12.19-12.40.37:565][432]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.12.19-12.40.37:565][432]PIE: New page: PIE session: NewMap (Dec 20, 2020, 2:40:37 AM)
+[2020.12.19-12.40.37:566][432]LogPlayLevel: Creating play world package: /Game/Crystamania/UEDPIE_0_NewMap
+[2020.12.19-12.40.37:639][432]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073049s)
+[2020.12.19-12.40.37:640][432]LogAIModule: Creating AISystem for world NewMap
+[2020.12.19-12.40.37:640][432]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000015CC5778400), frame # 720432
+[2020.12.19-12.40.37:640][432]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000015CD1B02840), frame # 720432
+[2020.12.19-12.40.37:640][432]LogPlayLevel: PIE: World Init took: (0.001347s)
+[2020.12.19-12.40.37:640][432]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Crystamania/NewMap.NewMap to /Game/Crystamania/UEDPIE_0_NewMap.NewMap (0.074589s)
+[2020.12.19-12.40.37:702][432]LogUObjectHash: Compacting FUObjectHashTables data took   6.49ms
+[2020.12.19-12.40.37:705][432]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.19-12.40.37:705][432]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.19-12.40.37:705][432]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.19-12.40.37:705][432]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.19-12.40.37:705][432]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.19-12.40.37:705][432]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.19-12.40.37:705][432]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.19-12.40.37:705][432]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.19-12.40.37:705][432]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.19-12.40.37:705][432]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.19-12.40.37:709][432]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.19-12.40.37:709][432]LogAudioMixer: Display: 1: FrontRight
+[2020.12.19-12.40.37:733][432]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek High Definition Audio)
+[2020.12.19-12.40.37:734][432]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.12.19-12.40.37:734][432]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.12.19-12.40.37:734][432]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.12.19-12.40.37:735][432]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.12.19-12.40.37:747][432]LogInit: FAudioDevice initialized.
+[2020.12.19-12.40.37:791][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-12.40.37:791][432]LogLoad: Game class is 'NewGameMode_C'
+[2020.12.19-12.40.37:800][432]LogWorld: Bringing World /Game/Crystamania/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2020.12.19-19.40.37
+[2020.12.19-12.40.37:801][432]LogWorld: Bringing up level for play took: 0.008993
+[2020.12.19-12.40.37:801][432]LogOnline: OSS: Creating online subsystem instance for: :Context_88
+[2020.12.19-12.40.37:803][432]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.12.19-12.40.37:804][432]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2020.12.19-12.40.37:807][432]LogBlueprintUserMessages: [NewMap_C_54] Actor_player
+[2020.12.19-12.40.37:807][432]LogBlueprintUserMessages: [NewMap_C_54] Actor_player1
+[2020.12.19-12.40.37:840][432]PIE: Server logged in
+[2020.12.19-12.40.37:864][432]PIE: Play in editor total start time 0.3 seconds.
+[2020.12.19-12.40.39:992][515]LogBlueprintUserMessages: [NewMap_C_54] 1   4
+[2020.12.19-12.40.40:833][549]LogBlueprintUserMessages: [NewMap_C_54] 2   4
+[2020.12.19-12.40.41:049][558]LogBlueprintUserMessages: [NewMap_C_54] 3   4
+[2020.12.19-12.40.41:264][567]LogBlueprintUserMessages: [NewMap_C_54] 4   4
+[2020.12.19-12.40.41:484][576]LogBlueprintUserMessages: [NewMap_C_54] enemy
+[2020.12.19-12.40.41:491][576]LogBlueprintUserMessages: [WidgetATKBp_C_0] Hello
+[2020.12.19-12.40.48:754][870]LogBlueprintUserMessages: [NewMap_C_54] combat
+[2020.12.19-12.40.48:754][870]LogBlueprintUserMessages: [NewMap_C_54] 2
+[2020.12.19-12.40.48:754][870]LogBlueprintUserMessages: [NewMap_C_54] cc
+[2020.12.19-12.40.50:509][942]LogBlueprintUserMessages: [NewMap_C_54] 1   1
+[2020.12.19-12.40.51:582][985]LogBlueprintUserMessages: [NewMap_C_54] Pass
+[2020.12.19-12.40.51:582][985]LogBlueprintUserMessages: [NewMap_C_54] 1
+[2020.12.19-12.40.51:582][985]LogBlueprintUserMessages: [NewMap_C_54] cc
+[2020.12.19-12.40.51:589][985]LogBlueprintUserMessages: [WidgetATKBp_C_1] Hello
+[2020.12.19-12.40.58:205][254]LogBlueprintUserMessages: [NewMap_C_54] None
+[2020.12.19-12.40.58:205][254]LogBlueprintUserMessages: [NewMap_C_54] 2
+[2020.12.19-12.40.58:205][254]LogBlueprintUserMessages: [NewMap_C_54] cc
+[2020.12.19-12.41.00:837][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.19-12.41.00:837][361]LogWorld: BeginTearingDown for /Game/Crystamania/UEDPIE_0_NewMap
+[2020.12.19-12.41.00:837][361]LogSlate: Window 'CRYSTAMANIA_Paper Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.12.19-12.41.00:849][361]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2020.12.19-12.41.00:852][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-12.41.00:866][361]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.12.19-12.41.00:873][361]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.19-12.41.00:948][361]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000015CD1B02840), frame # 721361
+[2020.12.19-12.41.00:949][361]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000015CC5778400), frame # 721361
+[2020.12.19-12.41.00:954][361]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2020.12.19-12.41.01:016][362]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2020.12.19-12.41.05:803][575]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2020.12.19-12.41.05:829][575]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HUDBlueprint" FILE="D:/github/1/CRYSTAMANIA/Unreal_Projects/CRYSTAMANIA_Paper/Content/Blueprints/HUDBlueprint.uasset" SILENT=true
+[2020.12.19-12.41.06:020][575]LogSavePackage: Moving 'D:/github/1/CRYSTAMANIA/Unreal_Projects/CRYSTAMANIA_Paper/Saved/HUDBlueprintF1DB611F48EA8F6DF8BCD7B7BB3699DC.tmp' to 'D:/github/1/CRYSTAMANIA/Unreal_Projects/CRYSTAMANIA_Paper/Content/Blueprints/HUDBlueprint.uasset'
+[2020.12.19-12.41.06:040][575]AssetCheck: New page: Asset Save: HUDBlueprint
+[2020.12.19-12.41.06:041][575]LogContentValidation: Display: Validating WidgetBlueprint /Game/Blueprints/HUDBlueprint.HUDBlueprint
